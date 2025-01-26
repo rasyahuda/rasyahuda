@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi there, I'm Rasya Huda Ramadhan 👋<br>I'am currently focus for learning Web Development, and Design Graphics <br><br>About Me<br>🔭 Currently at work on a personal project<br>🌱 to learn better - now and in the future<br>💬 I'm mostly active within the, Instagram, and Twitter communities
+# Hi there, I'm Rasya Huda Ramadhan 👋<br>I'am currently focus for learning Web Development, and Design Graphics <br><br>About Me<br>🔭 Currently at work on a personal project<br>🌱 to learn better - now and in the future<br>💬 I'm mostly active within the, Instagram, and Twitter communities
 
 
 ## 🌐 Socials:
