@@ -1,4 +1,4 @@
-## Hi there✨, I'm Rasya Huda Ramadhan 👋
+## Hi there✨, I'm Rasya Huda👋
 
 I'am currently focus for learning web development, and Design Graphics
 
