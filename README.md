@@ -1,6 +1,6 @@
 ## Hi there✨, I'm Rasya Huda👋
 
-I'am currently focus for learning web development, and Design Graphics
+I'am currently focus for learning Web Development, and Design Graphics
 
 #### About Me
 
