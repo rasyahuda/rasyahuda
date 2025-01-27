@@ -13,6 +13,6 @@ I'am currently focus for learning Web Development, and Design Graphics
 
 
 ## You can see me on:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rsyhdr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Https://www.twitter.com/RasyaHudaR) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rsyhdr) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Https://www.twitter.com/RasyaHudaR) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
