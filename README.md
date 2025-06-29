@@ -6,5 +6,5 @@ I'am currently focus for learning Front-End and UI/UX
 
 - 🔭 Currently at work on a personal project
 - 🌱 to learn better - now and in the future
-- 💬 I'm mostly active within the **Instagram**, and **Twitter** communities
+- 💬 I'm mostly active within the **Instagram**, and **Twitter**
 <br>
