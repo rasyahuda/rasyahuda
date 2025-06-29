@@ -17,7 +17,7 @@ Based in Indonesia.
 
 <h2>Tools and Stack</h2>
 <div align="left">
-  <img style="border-radius: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <a href="https://www.figma.com/design/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
   <img width="12" />
