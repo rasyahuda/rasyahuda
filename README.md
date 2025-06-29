@@ -25,8 +25,6 @@ Based in Indonesia.
   <img width="12" />
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwindcss" height="50" alt="tailwindcss logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webstorm" height="50" alt="webstorm logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="whtml logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
@@ -38,7 +36,7 @@ Based in Indonesia.
 
 <h2>Lets Connect!🤞</h2>
 <div align="left">
-   <a href="https://www.linkedin.com/in/rasya-huda-ramadhan-8550982a3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="Linkedin logo"  /></a>
+   <a href="https://www.linkedin.com/in/rasya-huda-ramadhan-8550982a3/"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="Linkedin logo"  /></a>
   <img width="12" />
   <a href="https://x.com/seventyash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="X logo"  /></a>
   <img width="12" />
