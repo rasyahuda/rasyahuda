@@ -8,7 +8,7 @@ Based in Indonesia.
 
 - 🔭 Currently at work on a personal project
 - 🌱 to learn better - now and in the future
-- 💬 I'm mostly active within the **Instagram**, and **Twitter**
+- 💬 I'm mostly active within Code and Design
 <h3 align="left">Connect with me🧑‍💻</h3>
 <p align="left">
 </p>
@@ -34,8 +34,8 @@ Based in Indonesia.
 
 <h2>Lets Connect!🤞</h2>
 <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="javascript logo"  />
+   <a href="https://www.linkedin.com/in/rasya-huda-ramadhan-8550982a3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="Linkedin logo"  /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="javascript logo"  />
+  <a href="https://x.com/seventyash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="X logo"  /></a>
   <img width="12" />
 </div>
