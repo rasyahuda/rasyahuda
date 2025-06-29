@@ -1,6 +1,6 @@
-## Hi there✨, I'm Rasya Huda👋
+## Hi there✨, My name Rasya Huda👋
 
-UI/UX Designer and Currently focus learning Front-End for Web Development, 
+I'am Currently focusing learning Front-End for Web Development and UI/UX Design, 
 Based in Indonesia.
 
 
