@@ -1,6 +1,6 @@
 ## Hi there✨, I'm Rasya Huda👋
 
-I'am currently focus for learning Web Development, and UI/UX
+I'am currently focus for learning Front-End and UI/UX
 
 #### About Me
 
