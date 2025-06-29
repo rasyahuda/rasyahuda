@@ -1,4 +1,4 @@
-## Hi there✨, My name Rasya Huda👋
+## Hi there✨ My name Rasya Huda Ramadhan👋
 
 I'am Currently focusing learning Front-End for Web Development and UI/UX Design, 
 Based in Indonesia.
