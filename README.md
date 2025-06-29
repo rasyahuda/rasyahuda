@@ -27,6 +27,10 @@ Based in Indonesia.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=webstorm" height="50" alt="webstorm logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="whtml logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img width="12" />
 </div>
 
 
