@@ -19,9 +19,11 @@ Based in Indonesia.
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
-  <a href="https://www.figma.com/design/"><img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  /></a>
+  <a href="https://www.figma.com/design/"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  /></a>
   <img width="12" />
-  <a href="https://www.figma.com/design/"><img src="https://skillicons.dev/icons?i=photoshop" height="60" alt="photoshop logo"  /></a>
+  <a href="https://www.adobe.com/id_id/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo"  /></a>
+  <img width="12" />
+  <a href="https://www.adobe.com/id_id/products/photoshop.html"><img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="tailwindcss logo"  /></a>
   <img width="12" />
 </div>
 
