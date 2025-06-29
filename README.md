@@ -17,13 +17,15 @@ Based in Indonesia.
 
 <h2>Tools and Stack</h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="12" />
-  <a href="https://www.figma.com/design/"><img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  /></a>
+  <a href="https://www.figma.com/design/"><img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  /></a>
   <img width="12" />
-  <a href="https://www.adobe.com/id_id/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop logo"  /></a>
+  <a href="https://www.adobe.com/id_id/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop" height="50" alt="photoshop logo"  /></a>
   <img width="12" />
-  <a href="https://www.adobe.com/id_id/products/photoshop.html"><img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="tailwindcss logo"  /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwindcss" height="50" alt="tailwindcss logo"  /></a>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dribbble" height="50" alt="dribbble logo"  />
   <img width="12" />
 </div>
 
