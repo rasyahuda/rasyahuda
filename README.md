@@ -9,7 +9,7 @@ Based in Indonesia.
 - 🔭 Currently at work on a personal project
 - 🌱 to learn better - now and in the future
 - 💬 I'm mostly active within the **Instagram**, and **Twitter**
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect with me🧑‍💻</h3>
 <p align="left">
 </p>
 
