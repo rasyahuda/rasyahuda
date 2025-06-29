@@ -25,7 +25,7 @@ Based in Indonesia.
   <img width="12" />
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwindcss" height="50" alt="tailwindcss logo"  /></a>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dribbble" height="50" alt="dribbble logo"  />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="50" alt="webstorm logo"  />
   <img width="12" />
 </div>
 
