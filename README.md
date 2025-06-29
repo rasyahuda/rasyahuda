@@ -38,6 +38,6 @@ Based in Indonesia.
 <div align="left">
    <a href="https://www.linkedin.com/in/rasya-huda-ramadhan-8550982a3/"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="Linkedin logo"  /></a>
   <img width="12" />
-  <a href="https://x.com/seventyash"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="X logo"  /></a>
+  <a href="https://x.com/seventyash"><img src="https://skillicons.dev/icons?i=twitter height="50" alt="X logo"  /></a>
   <img width="12" />
 </div>
