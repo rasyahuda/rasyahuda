@@ -31,6 +31,8 @@ Based in Indonesia.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
+  <img width="12" />
 </div>
 
 
