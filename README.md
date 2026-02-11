@@ -1,6 +1,6 @@
 ## Hi there✨ My name Rasya Huda Ramadhan👋
 
-I'am Currently focusing learning Front-End for Web Development and UI/UX Design, 
+I'am Currently focusing learning Front-End for Web Development and UI/UX Design, Design Graphics | Poster Design
 Based in Indonesia.
 
 
